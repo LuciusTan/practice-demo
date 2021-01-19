@@ -7,9 +7,12 @@
 
 **效果呈现：**
 情景1：
+
 [![情景1](https://s3.ax1x.com/2021/01/20/sRmcxs.md.png)](https://imgchr.com/i/sRmcxs)
+
 情景2：
 [![情景2](https://s3.ax1x.com/2021/01/20/sRm2Mn.md.png)](https://imgchr.com/i/sRm2Mn)
+
 情景3：
 [![情景3](https://s3.ax1x.com/2021/01/20/sRm62j.md.png)](https://imgchr.com/i/sRm62j)
 
